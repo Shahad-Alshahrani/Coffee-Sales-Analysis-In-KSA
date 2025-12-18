@@ -37,5 +37,5 @@ This project features a comprehensive Sales Dashboard analyzing the performance 
 3. **Profitability Audit:** Evaluate the 11% discount rate to ensure it drives proportional revenue growth and long-term sustainability.
 
 ## 🛠️ Tools Used
-* **Data Source:** Kaggle.
+* **Data Source:** Kaggle -<a https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset.
 * **Analysis & Visualization:** Microsoft Excel.
