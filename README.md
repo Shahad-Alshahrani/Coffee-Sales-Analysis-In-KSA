@@ -42,3 +42,5 @@ This project features a comprehensive Sales Dashboard analyzing the performance 
 
 ## Dashboard 
 <a href="https://github.com/Shahad-Alshahrani/Coffee-Sales-Analysis-In-KSA/blob/main/Dashboard.png">View Dashboard</a>
+
+<img width="613" height="334" alt="Dashboard" src="https://github.com/user-attachments/assets/6fee15e7-09c8-4e7e-b709-f7223f69938d" />
