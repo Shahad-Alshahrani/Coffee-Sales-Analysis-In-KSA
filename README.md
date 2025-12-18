@@ -1,5 +1,7 @@
 # ☕ Coffee Sales Analysis in Saudi Arabia (2023 - 2024)
 
+<img width="533" height="282" alt="Dashboard" src="https://github.com/user-attachments/assets/f0b1532c-c91d-42fa-bcc8-07d346612b9a" />
+
 ## 📌 Project Overview
 This project features a comprehensive Sales Dashboard analyzing the performance of a coffee business in Saudi Arabia for the years **2023** and **2024**. The goal is to track key performance indicators, identify top-selling products, and understand regional market trends.
 
@@ -39,6 +41,3 @@ This project features a comprehensive Sales Dashboard analyzing the performance 
 ## 🛠️ Tools Used
 * **Data Source:** <a href= "https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset">Kaggle</a>.
 * **Analysis & Visualization:** Microsoft Excel.
-
-## Dashboard 
-<a href="https://github.com/Shahad-Alshahrani/Coffee-Sales-Analysis-In-KSA/blob/main/Dashboard.png">View Dashboard</a>
