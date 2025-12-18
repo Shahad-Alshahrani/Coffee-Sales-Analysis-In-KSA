@@ -34,7 +34,7 @@ This project features a comprehensive Sales Dashboard analyzing the performance 
 * **Underperformer:** **Brazilian** beans recorded the lowest sales.
 
 ## 💡 Strategic Recommendations
-1. **Inventory Management:** Increase stock levels for Colombian and Costa Rican beans to meet high demand.
+1. **Inventory Management:** Increase stock levels for **Colombian** and **Costa Rican** beans to meet high demand.
 2. **Targeted Marketing:** Develop localized promotional campaigns for **Abha** and **Tabuk** to boost brand awareness.
 3. **Profitability Audit:** Evaluate the 11% discount rate to ensure it drives proportional revenue growth and long-term sustainability.
 
