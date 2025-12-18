@@ -41,4 +41,4 @@ This project features a comprehensive Sales Dashboard analyzing the performance 
 * **Analysis & Visualization:** Microsoft Excel.
 
 ## Dashboard 
-<a href="https://github.com/Shahad-Alshahrani/Coffee-Sales-Analysis-In-KSA/blob/main/Dashboard.png">
+<a href="https://github.com/Shahad-Alshahrani/Coffee-Sales-Analysis-In-KSA/blob/main/Dashboard.png">View Dashboard</a>
