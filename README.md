@@ -40,4 +40,5 @@ This project features a comprehensive Sales Dashboard analyzing the performance 
 * **Data Source:** <a href= "https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset">Kaggle</a>.
 * **Analysis & Visualization:** Microsoft Excel.
 
-## Dashboard <a href="https://github.com/Shahad-Alshahrani/Coffee-Sales-Analysis-In-KSA/blob/main/Dashboard.png">
+## Dashboard 
+<a href="https://github.com/Shahad-Alshahrani/Coffee-Sales-Analysis-In-KSA/blob/main/Dashboard.png">
