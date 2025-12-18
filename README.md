@@ -1,6 +1,6 @@
 # ☕ Coffee Sales Analysis in Saudi Arabia (2023 - 2024)
 
-<img width="100%" height="282" alt="Dashboard" src="https://github.com/user-attachments/assets/f0b1532c-c91d-42fa-bcc8-07d346612b9a" />
+<img width="100%" height="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/f0b1532c-c91d-42fa-bcc8-07d346612b9a" />
 
 ## 📌 Project Overview
 This project features a comprehensive Sales Dashboard analyzing the performance of a coffee business in Saudi Arabia for the years **2023** and **2024**. The goal is to track key performance indicators, identify top-selling products, and understand regional market trends.
